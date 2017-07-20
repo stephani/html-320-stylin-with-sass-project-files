@@ -1,0 +1,4 @@
+don't use IDs because it affects the specificity (IDs have highest specificity. use IDs for Javascript, use Classes for SASS)
+
+Why does my npm keep running constantly? restart whenever I run a new command??
+
